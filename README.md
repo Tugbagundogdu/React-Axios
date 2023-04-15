@@ -5,4 +5,3 @@ Projemi [buraya](https://643185c25408493a257a7c9c--bespoke-pudding-f1a482.netlif
 ![Ekran Görüntüsü (293)](https://user-images.githubusercontent.com/78304413/230729414-b842048b-2884-40fd-8f01-7421ccc3f110.png)
 
 
-
